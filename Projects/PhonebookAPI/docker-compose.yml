@@ -1,0 +1,14 @@
+services:
+  phonebook:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: phonebook_app
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./logs:/app/logs
+      - ./data:/app/data
+    restart: unless-stopped
+    tty: true
+    stdin_open: true
