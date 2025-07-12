@@ -32,7 +32,7 @@ gcc -g spell_checker.c spell.c
 
 ---
 
-## 🖥️ How to Run
+## How to Run
 
 ```bash
 ./a.out
@@ -78,7 +78,7 @@ The program will output suggestions for misspelled words in the input file, show
 
 ---
 
-## 📂 Example Outputs
+## Example Outputs
 
 The `Example Outputs/` folder contains sample outputs from previous runs using different dictionary and input files. These demonstrate the spell-checking and edit distance behavior in real use cases.
 
