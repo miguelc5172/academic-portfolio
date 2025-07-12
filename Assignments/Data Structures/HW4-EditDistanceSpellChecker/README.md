@@ -1,4 +1,4 @@
-# 🧠 Edit Distance Spell Checker (C)
+# Edit Distance Spell Checker (C)
 
 This program demonstrates the use of **edit distance (Levenshtein distance)** to compare words and perform basic spell-checking by matching user-provided words against a dictionary file.
 
@@ -6,7 +6,7 @@ Developed as part of a Data Structures course, it showcases dynamic memory usage
 
 ---
 
-## 🚀 Features
+## Features
 
 There are two parts to this program:
 
@@ -21,7 +21,7 @@ There are two parts to this program:
 
 ---
 
-## 🔧 How to Compile
+## How to Compile
 
 Ensure you're in the directory that contains `spell_checker.c`, `spell.c`, and `spell.h`.
 
@@ -38,7 +38,7 @@ gcc -g spell_checker.c spell.c
 ./a.out
 ```
 
-### 🗒️ You’ll be prompted to:
+### You’ll be prompted to:
 
 1. Enter two words to compare:
    ```
@@ -84,19 +84,19 @@ The `Example Outputs/` folder contains sample outputs from previous runs using d
 
 ---
 
-## 🧪 Memory Testing with Valgrind
+## Memory Testing with Valgrind
 
 Valgrind may be utilized and is encouraged in order to demonstrate that there are no memory  leaks. To verify that the program does not leak memory:
 
 ```bash
-valgrind --leak-check=full  ./a.out
+valgrind --leak-check=full ./a.out
 ```
 
 Interact as usual and confirm clean memory usage when the program exits.
 
 ---
 
-## ✅ Dependencies
+## Dependencies
 
 - Standard C compiler (e.g., `gcc`)
 - Compatible with Linux-based systems (tested with Ubuntu)
