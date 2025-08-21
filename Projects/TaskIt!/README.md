@@ -3,7 +3,7 @@
 A Trello-inspired **Kanban web app** for managing tasks with simplicity and style.  
 Built as a personal project to practice **full-stack development** with Next.js, Supabase, and modern frontend tools.
 
-🔗 **Live Demo:** [task-it-26yy.vercel.app](https://task-it-26yy.vercel.app)
+🔗 **Live Demo:** [task-it-omega.vercel.app](https://task-it-omega.vercel.app)
 
 ---
 
@@ -54,3 +54,4 @@ TaskIt! demonstrates:
 ## 📫 Contact
 Want to learn more about TaskIt! or request a demo of the source code?  
 📧 Reach me at **miguelcervantes87480@gmail.com**  
+
