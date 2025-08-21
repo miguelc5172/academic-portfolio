@@ -36,8 +36,9 @@ TaskIt! demonstrates:
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="docs/screenshot-board.png" width="400"/>
-  <img src="docs/screenshot-darkmode.png" width="400"/>
+  <img src="docs/TaskPage.png" width="800"/>
+  <img src="docs/TaskWindow.png" width="800"/>
+  <img src="docs/SortBy.png" width="800"/>
 </p>
 
 ---
@@ -46,12 +47,12 @@ TaskIt! demonstrates:
 *(This repo is for documentation & portfolio presentation only. The main codebase is kept private.)*
 
 - `docs/` → Screenshots & technical write-up
-- `taskboard/` → Contains source code of the app
 - `README.md` → Overview (this file)  
 
 ---
 
 ## 📫 Contact
 Want to learn more about TaskIt! or request a demo of the source code?  
-📧 Reach me at **miguelcervantes87480@gmail.com**  
+Reach me at **miguelcervantes87480@gmail.com**  
+
 
