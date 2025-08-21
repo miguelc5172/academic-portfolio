@@ -32,7 +32,6 @@ The app follows a **serverless full-stack model**:
 - 🎨 **Color & Group assignment** for tasks
 - 🔄 **Drag-and-drop** task movement across columns
 - 📊 **Sorting** per column (A→Z, Z→A, by Group, by Color)
-- 🌓 **Dark/Light mode toggle** with persistence
 - 🚀 **Vercel deployment** with environment-based Supabase keys
 
 ---
@@ -77,3 +76,4 @@ The app follows a **serverless full-stack model**:
 
 Author: Miguel Cervantes  
 Date: 2025
+
