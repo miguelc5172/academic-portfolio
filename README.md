@@ -1,25 +1,10 @@
-# 👋 Howdy, I’m Miguel Cervantes  
+# Academic Portfolio  
 
-🎓 Computer Science student passionate about **video game development**, **full-stack development** and **app development**.  
-🌱 Currently learning more RPGMaker MV and expanding my frontend design skills.  
-💡 Interested in **game-like experiences**, creative UI, and full-stack prototyping.  
+This repository serves as a central hub for my coursework, projects, and assignments completed during my Computer Science degree. It showcases my progress across a variety of classes — from systems programming and data structures to secure programming and full-stack development.  
 
----
+Each folder highlights a different course or project with dedicated documentation to explain context, objectives, and outcomes.  
 
-## 🚀 Featured Projects
-- 🧠 [**TaskIt!**](https://task-it-omega.vercel.app) – Trello-style Kanban board with Next.js, Supabase, and dnd-kit  
-- 🔒 [**Secure Phonebook API**](https://github.com/miguelc5172/academic-portfolio) – REST API with authentication & input validation (Dockerized)  
-- 🎮 **The Tower - RPG Maker Tower Crawler** [WORK IN PROGRESS] – Procedural floor generation, restart mechanic on death, enemy AI, day/night cycle that affects battles
+🔹 The portfolio is actively being updated at intervals as I continue to refine past work and add new projects.  
+🔹 My goal is to provide a clear view of both my technical growth and my ability to organize, document, and present my work.  
 
----
-
-## 🛠️ Tech Stack
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
-- **Backend:** Supabase, PostgreSQL, FastAPI, Docker  
-- **Other:** GitHub, Vercel, REST APIs, RPG Maker scripting  
-
----
-
-📫 Connect with me:
-- **miguelcervantes87480@gmail.com** 
-- [**LinkedIn**](https://www.linkedin.com/in/miguel-cervantes-ii-774977237/)
+Feel free to explore the repository structure to see how my skills have developed across multiple domains of computer science and to reach out about any questions regarding my experience.
