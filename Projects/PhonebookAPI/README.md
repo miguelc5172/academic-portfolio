@@ -70,8 +70,9 @@ uvicorn app:app --reload
 ### Run with Docker
 
 ``` bash
-docker build -t phonebook-api .
-docker run -p 8000:8000 phonebook-api
+docker pull python:3.10-slim
+make setup
+make up
 ```
 
 ------------------------------------------------------------------------
